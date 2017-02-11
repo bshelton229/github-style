@@ -1,3 +1,3 @@
 # Github Style
 
-Restore github style
+A github style chrome extension.
