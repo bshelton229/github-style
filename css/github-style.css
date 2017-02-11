@@ -25,3 +25,19 @@
 .header-dark .notification-indicator .mail-status {
     border-color: transparent !important;
 }
+
+.header-logo-invertocat {
+    height: 30px;
+    width: 30px; margin-right: 0px !important;
+    margin-left: 0px !important;
+    font-size: 40px;
+    line-height: 0.8;
+}
+
+.header-logo-invertocat:after {
+    content: "\271E";
+}
+
+.header-logo-invertocat svg.octicon {
+    display: none;
+}
