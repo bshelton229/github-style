@@ -9,7 +9,7 @@
     "content_scripts": [
         {
             "matches": ["https://github.com/*"],
-            "css": ["css/github-stye.css"]
+            "css": ["css/github-style.css"]
         }
     ]
 }

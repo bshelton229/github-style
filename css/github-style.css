@@ -21,3 +21,7 @@
     background-color: #fff !important;
     border: 1px solid #ddd !important;
 }
+
+.header-dark .notification-indicator .mail-status {
+    border-color: transparent !important;
+}
