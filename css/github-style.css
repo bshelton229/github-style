@@ -1,6 +1,6 @@
 .header-logo-invertocat {
     height: 30px;
-    width: 70px; margin-right: 0px !important;
+    width: 40px; margin-right: 0px !important;
     margin-left: 0px !important;
     font-size: 40px;
     line-height: 0.8;
@@ -8,7 +8,14 @@
 }
 
 .header-logo-invertocat:after {
+    /* Cross and Star of David */
     content: "\271E  \2721";
+
+    /* Star of David */
+    /* content: "\2721"; */
+
+    /* Cross */
+    content: "\271E";
 }
 
 .header-logo-invertocat svg.octicon {
